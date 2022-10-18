@@ -5,7 +5,7 @@ The S&P 500 Index is the most followed stock market index, probably because it i
 
 For this project I used beautifulsoup and pandas packages to webscrape the data from the website that contains information about the stocks of 500 US based companies. The link can be found [here](https://stockmarketmba.com/stocksinthesp500.php), as well as in my python file.
 
-##### The tables contains 11 variables:
+#### The tables contains 11 variables:
 1. Symbol of the stock
 2. Description (Name of the Company)
 3. Category of the stock (stock, fund etc)
